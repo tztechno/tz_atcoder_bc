@@ -1,0 +1,8 @@
+a=read()
+b=read()
+s=a+b
+if(a<b)a=b
+c=read()
+s+=c
+if(a<c)a=c
+s-a
