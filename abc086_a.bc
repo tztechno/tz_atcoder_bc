@@ -12,6 +12,6 @@ if(read()*read()%2)"Odd"else"Even"
 ################################
 scale=0;a=read();a=a*read();if(a%2)"Odd"else"Even"
 ################################
-cale=0
+scale=0
 if(read()%2+read()%2==2) print "Odd" else print "Even"
 ################################
