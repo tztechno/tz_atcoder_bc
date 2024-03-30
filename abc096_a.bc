@@ -14,6 +14,7 @@ a-(a>b)
 [not available now]
 a=read();b=read();if(a>b)a-1 else a
 #########################################
+[python]
 a=read()
 b=read()
 if(a<=b) {
