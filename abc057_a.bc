@@ -1,0 +1,2 @@
+a=(read()+read())
+if(a>=24) a-24 else a
