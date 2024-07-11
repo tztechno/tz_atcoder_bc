@@ -62,6 +62,10 @@ BC言語は、シンプルで使いやすい構文を持ち、多くのUnix系�
 ```
 ---
 ```
-
+[for loop style]
+n=25-read()
+"Christmas"
+for (i=1; i<=n; i++) {
+" Eve" }
 ```
 ---
